@@ -8,20 +8,20 @@ testimonials:
   - name: "Q1 2024"
     designation: "Completed"
     avatar: "/images/avatar-sm.png"
-    content: "Pre-sale, onboarding of the first 100 users, testing and the launch of the TeleCard platform."
+    content: "Pre-sale, early adaptor onboarding, testing and getting readying for project launch."
 
   - name: "Q1 2024"
     designation: "In Progress"
     avatar: "/images/avatar-sm-2.png"
-    content: "Physical card shipment, onboarding of the first 100 users, testing and the launch of the TeleCard platform."
+    content: "Laser cut Metal card shipments begin, and the launch of the TeleCard platform."
 
   - name: "Q2 2024"
     designation: "In Progress"
     avatar: "/images/avatar-sm-2.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda."
+    content: "TeleCard Marketing and PR campaign. iOS and Android app development."
 
-  - name: "Q2 2024"
+  - name: "Q3 2024"
     designation: "In Progress"
     avatar: "/images/avatar-sm-2.png"
-    content: "Growth and expansion of the TeleCard platform. Partnership announcements and more."
+    content: "Further growth, staking platform for holders, exchange listings. App Releases."
 ---
