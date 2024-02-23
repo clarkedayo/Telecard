@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "TeleCard",
-    "base_url": "https://TeleCard.netlify.app",
+    "base_url": "https://TeleCard.org",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -16,7 +16,7 @@
     "search": false,
     "sticky_header": true,
     "theme_switcher": true,
-    "default_theme": "darkmode",
+    "default_theme": "dark",
     "pagination": 2,
     "summary_length": 200,
     "blog_folder": "blog"
@@ -40,8 +40,8 @@
   },
 
   "metadata": {
-    "meta_author": "TeleCard INC",
-    "meta_image": "/images/og-image.png",
+    "meta_author": "TeleCard",
+    "meta_image": "/images/seo-banner.png",
     "meta_description": "TeleCard - Anonymous Virtual Cards"
   }
 }

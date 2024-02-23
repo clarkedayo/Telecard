@@ -1,257 +1,97 @@
 ---
 title: "Black Paper"
-meta_title: ""
-description: "this is meta description"
+meta_title: "Whitepaper"
+description: "TeleCard Whitepaper"
 draft: false
----
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
 
 ---
 
-### Paragraph
+### What is TeleCard and how does it work?
 
-Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once. We have a saboteur aboard. We know you’re dealing in stolen ore. But I wanna talk about the assassination attempt on Lieutenant Worf. Could someone survive inside a transporter buffer for 75 years? Fate. It protects fools, little children, and ships.
+TeleCard bridges the gap between FIAT and CRYPTO so you can spend your digital assets in the real world. It's the quickest way to convert your crypto into cash and spend it at over 60 million merchants worldwide. 
 
-Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once. We have a saboteur aboard. We know you’re dealing in stolen ore. But I wanna talk about the assassination attempt on Lieutenant Worf. Could someone survive inside a transporter buffer for 75 years? Fate. It protects fools, little children, and ships.
+With TeleCard you don't have to worry about KYC, AML, or any other regulatory requirements. You can spend your crypto without any restrictions. 
 
----
+You can manage your cards via the TeleCard bot, and soon with the TeleCard app available both on Android and iOS.
 
-### Emphasis
+TeleCard was inspired by the need to make crypto more accessible and usable in the real world. We believe that everyone should have the freedom to spend their digital assets without any restrictions.
 
-1. Did you come here for something in **particular** or just general
-
-2. Did you come here for something in <ins>particular</ins>
-
-3. _Did you come here_
-
-4. Did you come here for **something** in particular
-
-5. Did you come here for something in particular
-
-6. Did you come here for something in particular
-
-7. URLs and URLs in angle brackets will automatically get turned into links. [http://www.example.com](http://www.example.com) or
-
-8. [http://www.example.com](http://www.example.com) and sometimes example.com (but not on Github, for example).
 
 ---
 
-### Link
-
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.themefisher.com
-[1]: https://gethugothemes.com
-[link text itself]: https://www.getjekyllthemes.com
+<Video width="100%" src="https://files-hosdt.vercel.app/promo.mp4" autoplay />
 
 ---
 
-### Ordered List
+### We believe in
 
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
+> Return Power back to people
 
 ---
 
-### Unordered List
+### Card Tiers
 
-- List item
-- List item
-- List item
-- List item
-- List item
-
----
-
-### Code and Syntax Highlighting
-
-#### HTML
-
-```html
-<ul>
-  <li class="nav-item">
-    <a class="nav-link" href="/">Home</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="about/">About</a>
-  </li>
-</ul>
-```
-
----
-
-#### CSS
-
-```css
-img {
-  vertical-align: middle;
-  border: 0;
-  max-width: 100%;
-  height: auto;
-}
-```
-
----
-
-#### JavaScript
-
-```javascript
-window.addEventListener("load", (e) => {
-  document.querySelector(".preloader").style.display = "none";
-});
-```
-
----
-
-### Button
-
-<Button label="Button" link="#" style="solid"/>
-
----
-
-### Quote
-
-> Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once.
-
----
-
-### Notice
-
-<Notice type="note">
-  This is a simple note.
-</Notice>
-
-<Notice type="tip">
-  This is a simple note.
-</Notice>
-
-<Notice type="info">
-  This is a simple note.
-</Notice>
-
-<Notice type="warning">
-  This is a simple note.
-</Notice>
-
----
-
-### Tab
-
-<Tabs>
-
-<Tab name="Tab 1">
-
-#### Did you come here for something in particular?
-
-Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once. We have a saboteur aboard. We know you’re dealing in stolen ore. But I wanna talk about the assassination attempt on Lieutenant Worf.
-</Tab>
-
-<Tab name="Tab 2">
-
-#### I wanna talk about the assassination attempt
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-</Tab>
-
-<Tab name="Tab 3">
-
-#### We know you’re dealing in stolen ore
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
-</Tab>
-
-</Tabs>
-
----
-
-### Table
-
-| #   |    First     |     Last     |       Handle |
+| #   |    Tier     |     Deposit fee     |    Limit per month   |
 | :-- | :----------: | :----------: | -----------: |
-| 1   | Row:1 Cell:1 | Row:1 Cell:2 | Row:1 Cell:3 |
-| 2   | Row:2 Cell:1 | Row:2 Cell:2 | Row:2 Cell:3 |
-| 3   | Row:3 Cell:1 | Row:3 Cell:2 | Row:3 Cell:3 |
+| 1   | Free | 4%  | $400 |
+| 2   | Premium | 3%  | $4000 |
+| 3   | Platinum | No Fees | Unlimited |
+
+In order to upgrade tiers, you need to hold a certain amount of TeleCard tokens.
 
 ---
 
-### Collapse
+### FAQ
 
-<Accordion title="Why should you need to do this?">
+<Accordion title="Where do I satart?">
 
-- This is a thing.
-- This is a thing.
-- This is a thing.
-- This is a thing.
-- This is a thing.
+We have developed automated Telegram bot that will guide you through the process of getting your TeleCard.
 
 </Accordion>
 
-<Accordion title="How can I adjust Horizontal centering">
+<Accordion title="Is there support available?">
 
-- This is a thing.
-- This is a thing.
-- This is a thing.
-- This is a thing.
-- This is a thing.
+Simply message our Telegram bot and we will be happy to assist you.
 
 </Accordion>
 
-<Accordion title="Should you use Negative margin?">
+<Accordion title="Can I see my transactions?">
 
-- This is a thing.
-- This is a thing.
-- This is a thing.
-- This is a thing.
-- This is a thing.
+You will be able to see all your transactions in the TeleCard app.
 
 </Accordion>
 
----
+<Accordion title="How can I top-up?">
 
-### Image
+You can top-up your TeleCard via the Telegram bot or TeleCard app.
 
-![image](/images/image-placeholder.png)
+</Accordion>
 
----
+<Accordion title="How do you ensure privacy?">
 
-### Youtube video
+We have adopted TRX (Tron) to ensure privacy and security.
 
-<Youtube id="ZEe-IFezQok" title="Play:Youtube"/>
+</Accordion>
 
----
+<Accordion title="Do I need KYC to issue a card?">
 
-### Custom video
+No, we do not ask questions. We believe in privacy and freedom.
 
-<Video width="100%" src="https://joy1.videvo.net/videvo_files/video/free/video0467/large_watermarked/_import_61516692993d77.04238324_preview.mp4" />
+</Accordion>
+
+<Accordion title="Can I withdraw cash at the ATM?">
+
+Unfortunately, we do not support ATM withdrawals at the moment.
+
+</Accordion>
+
+
+![image](/images/banner.png)
+
+Blackpaper v1.0 - updated 23/02/2024
+
+For more information, please visit [TeleCard Docs](https://docs.telecard.com)
+
+
+
+
