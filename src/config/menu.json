@@ -1,0 +1,54 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Black Paper",
+      "url": "/black-paper"
+    },
+    {
+      "name": "Community",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        
+        {
+          "name": "Telegram",
+          "url": "https://t.me/TeleCardPortal"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/teleCardX"
+        },
+        {
+          "name": "Blog",
+          "url": "/blog"
+        }
+      ]
+    },
+    {
+      "name": "Docs ⎋",
+      "url": "https://docs.telecard.org/"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Black Paper",
+      "url": "/black-paper"
+    },
+    {
+      "name": "DexScreener",
+      "url": "/privacy-policy"
+    },
+    {
+      "name": "Uniswap",
+      "url": "https://uniswap.org/"
+    },
+    {
+      "name": "Privacy Policy",
+      "url": "/privacy-policy"
+    }
+  ]
+}

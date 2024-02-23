@@ -1,0 +1,14 @@
+{
+  "main": [
+    {
+      "name": "Telegram",
+      "icon": "FaTelegram",
+      "link": "https://t.me/TeleCardPortal"
+    },
+    {
+      "name": "twitter",
+      "icon": "FaX",
+      "link": "https://x.com/TeleCardX"
+    }
+  ]
+}
