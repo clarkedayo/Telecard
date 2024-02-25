@@ -1,0 +1,21 @@
+/* cta.css */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 20px, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.fadeInUp {
+  animation-name: fadeInUp;
+}
+
+.visible {
+  animation-duration: 1s;
+  animation-fill-mode: both;
+}
