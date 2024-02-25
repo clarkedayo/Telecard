@@ -10,10 +10,10 @@ testimonials:
     avatar: "/images/avatar-sm.png"
     content: "Pre-sale, early adaptor onboarding, testing and getting readying for project launch."
 
-  - name: "Q1 2024"
+  - name: "Q2 2024"
     designation: "In Progress"
     avatar: "/images/avatar-sm-2.png"
-    content: "Laser cut Metal card shipments begin, and the launch of the TeleCard platform."
+    content: "First laser cut Metal card shipments begin, and the launch of the TeleCard platform."
 
   - name: "Q2 2024"
     designation: "In Progress"
