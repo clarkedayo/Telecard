@@ -13,12 +13,12 @@ testimonials:
   - name: "Q2 2024"
     designation: "In Progress"
     avatar: "/images/avatar-sm-2.png"
-    content: "First laser cut Metal card shipments begin, and the launch of the TeleCard platform."
+    content: "TeleCard Marketing and PR campaign. iOS and Android app development."
 
   - name: "Q2 2024"
     designation: "In Progress"
     avatar: "/images/avatar-sm-2.png"
-    content: "TeleCard Marketing and PR campaign. iOS and Android app development."
+    content: "First laser cut Metal card shipments begin, and the launch of the TeleCard platform."
 
   - name: "Q3 2024"
     designation: "In Progress"
