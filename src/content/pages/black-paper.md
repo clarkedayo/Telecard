@@ -19,7 +19,7 @@ TeleCard was inspired by the need to make crypto more accessible and usable in t
 
 ---
 
-<Video width="100%" src="https://files-hosdt.vercel.app/promo.mp4" autoplay />
+<Video width="100%" src="https://files-hosdt.vercel.app/promo2.mp4" autoplay />
 
 ---
 
