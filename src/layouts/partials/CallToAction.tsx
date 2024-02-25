@@ -3,6 +3,7 @@ import { markdownify } from "@/lib/utils/textConverter";
 import { Call_to_action } from "@/types";
 import Link from "next/link";
 
+
 interface PageData {
   notFound?: boolean;
   content?: string;

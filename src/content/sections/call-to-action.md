@@ -1,10 +1,10 @@
 ---
 enable: true
-title: "Ready to redefine the way you spend your assets?"
+title: "Stay tuned for the launch of TeleCard"
 image: "/images/call-to-action.png"
-description: "TeleCard bridges the gap between FIAT and CRYPTO so you can spend anywhere in the world. It's the quickest and the most secure way to load your crypto assets on to a VISA and MasterCard."
+description: "We post updates on our Telegram channel. Join us to stay in the loop. We'll also be doing giveaways to our early adopters."
 button:
   enable: true
-  label: "Get mine"
-  link: "https://t.me/telecard_Autobot"
+  label: "Tune in"
+  link: "https://t.me/telecardportal"
 ---
