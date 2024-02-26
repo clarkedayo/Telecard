@@ -43,7 +43,7 @@ In order to upgrade tiers, you need to hold a certain amount of TeleCard tokens.
 
 ### FAQ
 
-<Accordion title="Where do I satart?">
+<Accordion title="Where do I start?">
 
 We have developed automated Telegram bot that will guide you through the process of getting your TeleCard.
 
@@ -51,7 +51,7 @@ We have developed automated Telegram bot that will guide you through the process
 
 <Accordion title="Is there support available?">
 
-Simply message our Telegram bot and we will be happy to assist you.
+Simply click on support on our Telegram bot and we will be happy to assist you.
 
 </Accordion>
 
@@ -63,13 +63,14 @@ You will be able to see all your transactions in the TeleCard app.
 
 <Accordion title="How can I top-up?">
 
-You can top-up your TeleCard via the Telegram bot or TeleCard app.
+You can top-up your TeleCard via the Telegram bot.
 
 </Accordion>
 
 <Accordion title="How do you ensure privacy?">
 
 We have adopted TRX (Tron) to ensure privacy and security.
+Tron provides full anonimity.
 
 </Accordion>
 
