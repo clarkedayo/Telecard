@@ -38,6 +38,6 @@ features:
     button:
       enable: true
       label: "Get Started Now"
-      link: "https://github.com/zeon-studio/nextplate"
+      link: "https://t.me/telecard_Autobot"
 
 ---
