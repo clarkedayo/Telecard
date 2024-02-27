@@ -23,11 +23,8 @@ TeleCard was inspired by the need to make crypto more accessible and usable in t
 
 ---
 
-### We believe in
-
-> Return Power back to people
-
----
+> <center>Power back to people</center>
+> <center>Remain anonymous when spending your crypto.</center>
 
 ### Card Tiers
 
@@ -38,6 +35,7 @@ TeleCard was inspired by the need to make crypto more accessible and usable in t
 | 3   | Platinum | No Fees | Unlimited |
 
 In order to upgrade tiers, you need to hold a certain amount of TeleCard tokens.
+Stay tuned for more information on how to upgrade your card tier.
 
 ---
 
@@ -57,7 +55,7 @@ Simply click on support on our Telegram bot and we will be happy to assist you.
 
 <Accordion title="Can I see my transactions?">
 
-You will be able to see all your transactions in the TeleCard app.
+You can use TeleCard bot to check your transactions.
 
 </Accordion>
 
@@ -69,14 +67,13 @@ You can top-up your TeleCard via the Telegram bot.
 
 <Accordion title="How do you ensure privacy?">
 
-We have adopted TRX (Tron) to ensure privacy and security.
-Tron provides full anonimity.
+We have adopted TRX (Tron Network) to ensure complete privacy and security.
 
 </Accordion>
 
 <Accordion title="Do I need KYC to issue a card?">
 
-No, we do not ask questions. We believe in privacy and freedom.
+No, we do not ask questions. TeleCard believes in privacy and freedom.
 
 </Accordion>
 
@@ -89,7 +86,7 @@ Unfortunately, we do not support ATM withdrawals at the moment.
 
 ![image](/images/banner.png)
 
-Blackpaper v1.0 - updated 23/02/2024
+Blackpaper v1.1 - updated 26/02/2024
 
 For more information, please visit [TeleCard Docs](https://docs.telecard.com)
 

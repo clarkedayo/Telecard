@@ -2,7 +2,8 @@
 # Banner
 banner:
   title: "<p>TELECARD<br> When privacy is important.</p>"
-  content: "TeleCard bridges the gap between FIAT and CRYPTO so you can spend anywhere in the world. It's the quickest and the most secure way to load your crypto assets on to a VISA or MasterCard."
+  content: "TeleCard allows you to spend your crypto completely Anonymous 🎭.  
+  <br>No KYC. Instant Cards. Untracable."
   image: "/images/banner.png"
   button:
     enable: false
@@ -15,9 +16,9 @@ features:
     image: "/images/service-1.png"
     content: "Simply add funds to your TeleCard. Spend anywhere in the world. It's the quickest and the most discreet way to spend your crypto assets. No hidden costs. No surprises."
     bulletpoints:
-      - "3% Deposit fee"
-      - "$50 Minimum deposit"
-      - "Apple Pay, Google Pay, Samsung Pay"
+      - "4% Deposit fee"
+      - "Instant cards"
+      - "Fast Support"
     button:
       enable: false
       label: "Purchase "
@@ -30,6 +31,10 @@ features:
       - "No KYC, No AML"
       - "No Questions asked"
       - "**Cashback** for TCARD holders"
+      - 0% transaction fee
+      - 0% fee for declined payments
+      - 0% fee for withdrawal from the card
+      - 0% fee for unsuccessful payment attempts
     button:
       enable: true
       label: "Get Started Now"

@@ -1,18 +1,19 @@
 ---
-title: "TeleCard $500 Giveaway announcement"
-meta_title: "Giveaway announcement"
-description: "Giveaway announcement"
-date: 2024-02-22T01:00:00Z
-image: "/images/blog-giveaway.png"
-categories: ["Token", "Pre-Sale"]
+title: "Official TeleCard Token Fairlaunch"
+meta_title: "Official TeleCard Token Fairlaunch"
+description: "Official TeleCard Token Fairlaunch"
+date: 2024-02-26T01:00:00Z
+image: "/images/blog-official.png"
+categories: ["News"]
 author: "Frontman"
-tags: ["Promotion", "Token"]
+tags: ["News"]
 draft: false
 ---
 
-## Post content
+## Official launch |
 
-Not long until we announce our winner for Twitter $500 giveaway. 
+We are excited to announce the official TeleCard Token Fairlaunch.
 
-Stay tuned for the announcement. We will be announcing the winner on our Twitter page.
+27/02/2024 - 21:00 UTC
 
+Join us on [Telegram](https://t.me/telecardportal) for more information.

@@ -8,7 +8,7 @@ testimonials:
   - name: "Q1 2024"
     designation: "Completed"
     avatar: "/images/avatar-sm.png"
-    content: "Pre-sale, early adaptor onboarding, testing and getting readying for project launch."
+    content: "Early adaptor onboarding, testing and getting readying for project launch."
 
   - name: "Q2 2024"
     designation: "In Progress"
