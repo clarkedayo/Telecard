@@ -3,7 +3,7 @@
 banner:
   title: "<p>TELECARD<br> When privacy is important.</p>"
   content: "TeleCard allows you to spend your crypto completely Anonymous 🎭.  
-  <br>No KYC. Instant Cards. Untracable."
+  <br>No KYC. Instant Cards. Untraceable."
   image: "/images/banner.png"
   button:
     enable: false
