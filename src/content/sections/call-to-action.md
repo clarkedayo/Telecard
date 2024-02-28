@@ -1,8 +1,9 @@
 ---
 enable: true
-title: "Stay tuned for the launch of TeleCard"
+title: "TeleCard official launch"
 image: "/images/call-to-action.png"
-description: "We post updates on our Telegram channel. Join us to stay in the loop. We'll also be doing giveaways to our early adopters."
+description: "The official launch has been set to 21:00 UTC. 
+<br>Join us on Telegram to feel the community."
 button:
   enable: true
   label: "Tune in"

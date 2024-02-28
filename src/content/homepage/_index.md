@@ -30,7 +30,7 @@ features:
     bulletpoints:
       - "No KYC, No AML"
       - "No Questions asked"
-      - "**Cashback** for TCARD holders"
+      - "**Cashbacks** for TCARD holders"
       - 0% transaction fee
       - 0% fee for declined payments
       - 0% fee for withdrawal from the card

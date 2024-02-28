@@ -22,7 +22,7 @@ const Home = () => {
   } = frontmatter;
 
   return (
-    <>
+    <>  
       <SeoMeta />
       <section className="section pt-14">
         <div className="container">
@@ -36,6 +36,7 @@ const Home = () => {
                 className="mb-8"
                 dangerouslySetInnerHTML={markdownify(banner.content ?? "")}
               />
+              
               {banner.button!.enable && (
                 <Link
                   className="btn btn-primary"
@@ -64,7 +65,9 @@ const Home = () => {
           </div>
         </div>
       </section>
+      <section>
 
+      </section>
       {features.map((feature, index: number) => (
         <section
           key={index}
@@ -121,7 +124,9 @@ const Home = () => {
 
       <Testimonials data={testimonial} />
       <CallToAction data={callToAction} />
+      
     </>
+    
   );
 };
 
