@@ -40,7 +40,7 @@
     },
     {
       "name": "DexScreener",
-      "url": "https://dexscreener.com/eth/0x3E156234501c41A041a178fF547E295609c4769A"
+      "url": "https://dexscreener.com/ethereum/0xe9594a500269d8dfb2742c2d756097bc49944814"
     },
     {
       "name": "Dextools",
@@ -48,7 +48,7 @@
     },
     {
       "name": "Uniswap",
-      "url": "https://app.uniswap.org/swap?outputCurrency=0x3E156234501c41A041a178fF547E295609c4769A"
+      "url": "https://app.uniswap.org/swap?outputCurrency=0x3E156234501c41A041a178fF547E295609c4769A&inputCurrency=ETH"
     },
     {
       "name": "Privacy Policy",

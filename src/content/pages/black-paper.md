@@ -10,34 +10,22 @@ draft: false
 
 TeleCard bridges the gap between FIAT and CRYPTO so you can spend your digital assets in the real world. It's the quickest way to convert your crypto into cash and spend it at over 60 million merchants worldwide. 
 
-With TeleCard you don't have to worry about KYC, AML, or any other regulatory requirements. You can spend your crypto without any restrictions. 
+You can spend your crypto without any restrictions. 
 
-You can manage your cards via the TeleCard bot, and soon with the TeleCard app available both on Android and iOS.
+TeleCard operates on Telegram via an automated bot. It allows you to quickly issue cards, top up your balance and manage your account.
 
-TeleCard was inspired by the need to make crypto more accessible and usable in the real world. We believe that everyone should have the freedom to spend their digital assets without any restrictions.
+TeleCard was inspired by the need to make crypto more accessible and usable in the real world. TeleCard aims to achieve complete decentralisation.
 
-
----
-
-<Video width="100%" src="https://files-hosdt.vercel.app/promo2.mp4" autoplay />
 
 ---
+
 
 > <center>Power back to people</center>
 > <center>Remain anonymous when spending your crypto.</center>
 
 ### Card Tiers
 
-| #   |    Tier     |     Deposit fee     |    Limit per month   |
-| :-- | :----------: | :----------: | -----------: |
-| 1   | Free | 4%  | $400 |
-| 2   | Premium | 3%  | $4000 |
-| 3   | Platinum | No Fees | Unlimited |
-
-In order to upgrade tiers, you need to hold a certain amount of TeleCard tokens.
-Stay tuned for more information on how to upgrade your card tier.
-
----
+![image](/images/banner_cd-min.png)
 
 ### FAQ
 
@@ -67,13 +55,13 @@ You can top-up your TeleCard via the Telegram bot.
 
 <Accordion title="How do you ensure privacy?">
 
-We have adopted TRX (Tron Network) to ensure complete privacy and security.
+All the deposits get tumbled and mixed to ensure privacy.
 
 </Accordion>
 
 <Accordion title="Do I need KYC to issue a card?">
 
-No, we do not ask questions. TeleCard believes in privacy and freedom.
+No, we do not ask questions. TeleCard believes in privacy and freedom to spend your money how you wish.
 
 </Accordion>
 
@@ -83,10 +71,16 @@ Unfortunately, we do not support ATM withdrawals at the moment.
 
 </Accordion>
 
+<Accordion title="What are the fees?">
+Fees vary depending on the card tier.
 
-![image](/images/banner.png)
+</Accordion>
 
-Blackpaper v1.1 - updated 26/02/2024
+
+
+![image](/images/bot_banner.png)
+
+Blackpaper v1.2 - updated 02/03/2024
 
 For more information, please visit [TeleCard Docs](https://docs.telecard.com)
 
