@@ -28,16 +28,14 @@ features:
     image: "/images/service-2.png"
     content: "Get 3% cashback on all purchases. The more you spend, the more you earn. It's that simple. No hidden costs. No surprises."
     bulletpoints:
-      - "No KYC, No AML"
       - "No Questions asked"
-      - "**Cashbacks** for TCARD holders"
+      - "**Cashback** for TCARD holders"
       - 0% transaction fee
       - 0% fee for declined payments
-      - 0% fee for withdrawal from the card
       - 0% fee for unsuccessful payment attempts
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://t.me/telecard_Autobot"
+      label: "Learn more"
+      link: "/black-paper"
 
 ---

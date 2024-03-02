@@ -25,7 +25,7 @@ TeleCard was inspired by the need to make crypto more accessible and usable in t
 
 ### Card Tiers
 
-![image](/images/banner_cd-min.png)
+![image](/images/banner_nobg.png)
 
 ### FAQ
 
@@ -75,14 +75,13 @@ Unfortunately, we do not support ATM withdrawals at the moment.
 Fees vary depending on the card tier.
 
 </Accordion>
-
-
-
-![image](/images/bot_banner.png)
+<center>
+![image](/images/emblem.png)
+</center>
 
 Blackpaper v1.2 - updated 02/03/2024
 
-For more information, please visit [TeleCard Docs](https://docs.telecard.com)
+For more information, please visit [TeleCard Docs](https://docs.telecard.org)
 
 
 
