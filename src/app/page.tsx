@@ -17,7 +17,9 @@ const Home = () => {
     banner,
     features,
   }: {
-    banner: { title: string; image: string; content?: string; button?: Button };
+    // Add image-darkmode to the banner
+    
+    banner: { title: string; image: string; content?: string; button?: Button; imageDarkmode?: string };
     features: Feature[];
   } = frontmatter;
 

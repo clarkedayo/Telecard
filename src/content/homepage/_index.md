@@ -4,18 +4,18 @@ banner:
   title: "<p>TELECARD<br> When privacy is important.</p>"
   content: "TeleCard allows you to spend your crypto completely Anonymous 🎭.  
   <br>No KYC. Instant Cards. Untraceable."
-  image: "/images/logo_shine_dark-min.gif"
-  image-darkmode: ""
+  image: "/images/logo-min.gif"
+  imageDarkmode: "/images/logo_shine_dark-min.gif"
   button:
     enable: false
     label: "Get Started"
-    link: "https://t.me/telecard_Autobot"
+    link: "https://t.me/TeleCard_Robot"
 
 # Features
 features:
   - title: "Secure, Fast, and Private."
     image: "/images/service-1.png"
-    image-darkmode: ""
+    imageDarkmode: ""
     content: "Simply add funds to your TeleCard. Spend anywhere in the world. It's the quickest and the most discreet way to spend your crypto assets. No hidden costs. No surprises."
     bulletpoints:
       - "4% Deposit fee"
@@ -28,7 +28,7 @@ features:
 
   - title: "It's so damn good."
     image: "/images/cards_bg.gif"
-    image-darkmode: "/images/cards_bg.gif"
+    imageDarkmode: "/images/cards_bg.gif"
     content: "Get 3% cashback on all purchases. The more you spend, the more you earn. It's that simple. No hidden costs. No surprises."
     bulletpoints:
       - "No Questions asked"
