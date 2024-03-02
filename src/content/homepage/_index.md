@@ -25,7 +25,7 @@ features:
       link: "https://app.uniswap.org/swap?outputCurrency=0x3E156234501c41A041a178fF547E295609c4769A&inputCurrency=ETH"
 
   - title: "It's so damn good."
-    image: "/images/cards-min.gif"
+    image: "/images/cards_bg.gif"
     content: "Get 3% cashback on all purchases. The more you spend, the more you earn. It's that simple. No hidden costs. No surprises."
     bulletpoints:
       - "No Questions asked"

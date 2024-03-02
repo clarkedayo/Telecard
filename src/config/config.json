@@ -16,7 +16,7 @@
     "search": false,
     "sticky_header": true,
     "theme_switcher": true,
-    "default_theme": "dark",
+    "default_theme": "darkmode",
     "pagination": 2,
     "summary_length": 200,
     "blog_folder": "blog"
@@ -35,13 +35,13 @@
 
   "disqus": {
     "enable": true,
-    "shortname": "TeleCard2024",
+    "shortname": "TeleCard",
     "settings": {}
   },
 
   "metadata": {
     "meta_author": "TeleCard",
     "meta_image": "/images/seo-banner.png",
-    "meta_description": "TeleCard - Completely Anonymous. No Verification. No Limits. No Restrictions. No Questions. No ID. No KYC. No AML. No CFT. No BS. Just Cards."
+    "meta_description": "TeleCard - Completely Anonymous. No Verification. No Limits. No Restrictions. No Questions. Just Cards."
   }
 }
