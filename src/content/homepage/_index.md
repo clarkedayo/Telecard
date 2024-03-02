@@ -4,7 +4,7 @@ banner:
   title: "<p>TELECARD<br> When privacy is important.</p>"
   content: "TeleCard allows you to spend your crypto completely Anonymous 🎭.  
   <br>No KYC. Instant Cards. Untraceable."
-  image: "/images/banner.png"
+  image: "/images/logo-min.gif"
   button:
     enable: false
     label: "Get Started"
@@ -21,11 +21,11 @@ features:
       - "Fast Support"
     button:
       enable: false
-      label: "Purchase "
-      link: "#"
+      label: "Purchase"
+      link: "https://app.uniswap.org/swap?outputCurrency=0x3E156234501c41A041a178fF547E295609c4769A&inputCurrency=ETH"
 
   - title: "It's so damn good."
-    image: "/images/service-2.png"
+    image: "/images/cards-min.gif"
     content: "Get 3% cashback on all purchases. The more you spend, the more you earn. It's that simple. No hidden costs. No surprises."
     bulletpoints:
       - "No Questions asked"
